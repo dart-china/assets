@@ -4,6 +4,4 @@
 /// The dartlang_china library.
 library dartlang_china;
 
-String welcome() {
-  return 'Welcome to dartlang-china!';
-}
+export 'src/server.dart' show Server;
