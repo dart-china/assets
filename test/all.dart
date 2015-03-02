@@ -1,0 +1,10 @@
+// Copyright (c) 2015, the dartlang-china project authors. All rights reserved. Use of this source code
+// is governed by a BSD-style license that can be found in the LICENSE file.
+
+library all_tests;
+
+import 'dartlang_china_test.dart' as dartlang_china_test;
+
+void main() {
+  dartlang_china_test.defineTests();
+}
