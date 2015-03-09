@@ -1,9 +1,0 @@
-name: dartlang_china
-version: 0.0.1
-authors:
-- Jaron Tai <jaroncn@gmail.com>
-description: The dartlang-china.org site.
-environment:
-  sdk: '>=1.0.0 <2.0.0'
-dev_dependencies:
-  unittest: any

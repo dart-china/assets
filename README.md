@@ -1,3 +1,3 @@
 # Dartlang China
 
-The dartlang-china.org site.
+Resources for dartlang-china.org.
